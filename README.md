@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://ummrabiaenza8751.github.io/.github/power-manager">  
+<a href="https://dawnanao5708.github.io/.github/power-manager">  
 <img src="https://img.shields.io/badge/GET_Power_Manager-darkgreen?style=for-the-badge&logo=apple" alt="GET Power Manager">  
 </a>  
 </div>  
